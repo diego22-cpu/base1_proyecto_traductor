@@ -45,7 +45,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../Downloads/señas.jpg</pixmap>
+     <pixmap>../proyecto_sbase1_traductor/imagenes/señas.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -644,7 +644,7 @@ p, li { white-space: pre-wrap; }
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../Downloads/semanas señas.jpg</pixmap>
+     <pixmap>../proyecto_sbase1_traductor/imagenes/semanas señas.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
